@@ -1,0 +1,12 @@
+E:\OOP_PROJEKT\bin\Debug\OOP_PROJEKT.exe.config
+E:\OOP_PROJEKT\bin\Debug\OOP_PROJEKT.exe
+E:\OOP_PROJEKT\bin\Debug\OOP_PROJEKT.pdb
+E:\OOP_PROJEKT\obj\Debug\OOP_PROJEKT.csproj.AssemblyReference.cache
+E:\OOP_PROJEKT\obj\Debug\OOP_PROJEKT.csproj.SuggestedBindingRedirects.cache
+E:\OOP_PROJEKT\obj\Debug\OOP_PROJEKT.FormMenu.resources
+E:\OOP_PROJEKT\obj\Debug\OOP_PROJEKT.FormBrylyReguralne.resources
+E:\OOP_PROJEKT\obj\Debug\OOP_PROJEKT.Properties.Resources.resources
+E:\OOP_PROJEKT\obj\Debug\OOP_PROJEKT.csproj.GenerateResource.cache
+E:\OOP_PROJEKT\obj\Debug\OOP_PROJEKT.csproj.CoreCompileInputs.cache
+E:\OOP_PROJEKT\obj\Debug\OOP_PROJEKT.exe
+E:\OOP_PROJEKT\obj\Debug\OOP_PROJEKT.pdb

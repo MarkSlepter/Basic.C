@@ -1,0 +1,12 @@
+C:\Users\bardu\Desktop\OOP_Projekt3_Barduk63139\obj\Debug\OOP_Projekt3_Barduk63139.csproj.AssemblyReference.cache
+C:\Users\bardu\Desktop\OOP_Projekt3_Barduk63139\obj\Debug\OOP_Projekt3_Barduk63139.csproj.SuggestedBindingRedirects.cache
+C:\Users\bardu\Desktop\OOP_Projekt3_Barduk63139\bin\Debug\OOP_Projekt3_Barduk63139.exe.config
+C:\Users\bardu\Desktop\OOP_Projekt3_Barduk63139\bin\Debug\OOP_Projekt3_Barduk63139.exe
+C:\Users\bardu\Desktop\OOP_Projekt3_Barduk63139\bin\Debug\OOP_Projekt3_Barduk63139.pdb
+C:\Users\bardu\Desktop\OOP_Projekt3_Barduk63139\obj\Debug\OOP_Projekt3_Barduk63139.FormMenu.resources
+C:\Users\bardu\Desktop\OOP_Projekt3_Barduk63139\obj\Debug\OOP_Projekt3_Barduk63139.FormBrylyReguralne.resources
+C:\Users\bardu\Desktop\OOP_Projekt3_Barduk63139\obj\Debug\OOP_Projekt3_Barduk63139.Properties.Resources.resources
+C:\Users\bardu\Desktop\OOP_Projekt3_Barduk63139\obj\Debug\OOP_Projekt3_Barduk63139.csproj.GenerateResource.cache
+C:\Users\bardu\Desktop\OOP_Projekt3_Barduk63139\obj\Debug\OOP_Projekt3_Barduk63139.csproj.CoreCompileInputs.cache
+C:\Users\bardu\Desktop\OOP_Projekt3_Barduk63139\obj\Debug\OOP_Projekt3_Barduk63139.exe
+C:\Users\bardu\Desktop\OOP_Projekt3_Barduk63139\obj\Debug\OOP_Projekt3_Barduk63139.pdb
